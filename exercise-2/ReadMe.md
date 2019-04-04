@@ -5,6 +5,10 @@ Intern has a way for you to run your unit test in a browser. That requires an st
 - Start the local http-server by running: `npm run start`
 - Go to: http://127.0.0.1:8080/node_modules/intern/
 
+The browser should display the following.
+
+![Brower Report](https://github.com/fabanc/intern4-exercises/blob/master/exercise-2/screenshots/intern-report.png?raw=true)
+
 # Limitations
 
 What if there are more than one unit test to run in the browser. Since you can't use glob, and you have to path the location to a file, how do you do that? This will be the next excercise.
