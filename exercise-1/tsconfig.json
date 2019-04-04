@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "amd",
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "types": ["intern"],
+    "strict": true,
+    "rootDir": "./src"
+  },
+  "include": ["./src/tests/unit/*.ts"]
+}
