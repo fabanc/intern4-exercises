@@ -1,0 +1,19 @@
+{
+  "name": "exercise-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "intern",
+    "start": "http-server"
+  },
+  "author": "Fabien Ancelin",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "typescript": "^3.4.1"
+  },
+  "dependencies": {
+    "intern": "^4.4.2"
+  }
+}
