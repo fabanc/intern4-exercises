@@ -18,6 +18,8 @@ Note than when running functional testing, Intern actually use Selenium by defau
 
 Run the following command: `npx run intern`.
 
+![Unit Test Success via command line](https://github.com/fabanc/intern4-exercises/blob/master/exercise-1/screenshots/command_line_success.PNG?raw=true)
+
 # Running the test suite in Chrome
 
 Intern has a way for you to run your unit test in a browser. That requires an starting a local server, which is why I have installed http-server with that project.
