@@ -21,7 +21,7 @@ Intern configuration file is pointing to a third file, that loads and run those 
 
 The result is being able to run both test suites within intern browser.
 
-## Loading an AMD loader
+## Loading AMD module using the Dojo 2 loader
 
 In order to load the AMD module, we need an AMD loader. Because or goal is to use intern with the Esri 4 JavaScript API, I will use the dojo loader that comes with that API. This done by adding this configuration in the file `intern.json`
 
