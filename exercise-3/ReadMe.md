@@ -53,3 +53,5 @@ Intern has a way for you to run your unit test in a browser. That requires an st
 - Go to: http://127.0.0.1:8080/node_modules/intern/
 
 ![Brower Report](https://github.com/fabanc/intern4-exercises/blob/master/exercise-3/screenshots/chrome.PNG?raw=true)
+
+The next exercise will demonstrate how to test a widget using the Esri JavaScript 4 API.
