@@ -2,7 +2,7 @@
 
 This is a demonstration on how to set-up TypeScript and Intern to run multiple unit test suite, within a browser or a the command line. This is done by pointing `intern.json` to a single file called `all.js`.
 
-With that configuration, it is possible to run multiple test suites in a browser.
+With that configuration, it is possible to run multiple test suites in a browser. The learning points compared to exercise 2 are covered next.
 
 # Learning points
 
