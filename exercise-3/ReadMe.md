@@ -1,12 +1,14 @@
 # Description
 
-This is a demonstration on how to set-up TypeScript and Intern to run a simple unit test suite, within a browser. This exercise will show how to run multiple test suite both in a browser and via the command-line, by pointing `intern.json` to a single file called `all.js`. With that configuration, it is possible to run multiple test suites in a browser.
+This is a demonstration on how to set-up TypeScript and Intern to run multiple unit test suite, within a browser or a the command line. This is done by pointing `intern.json` to a single file called `all.js`.
+
+With that configuration, it is possible to run multiple test suites in a browser.
 
 # Learning points
 
 ## Creating the suite that rule them all
 
-We have 2 test suites:
+There are 2 test suites:
 
 - `standalone.ts` contains a suite with one successful test.
 - `standaloneFailure.ts` contains a suite with one test will fail.
@@ -49,3 +51,5 @@ Intern has a way for you to run your unit test in a browser. That requires an st
 
 - Start the local http-server by running: `npm run start`
 - Go to: http://127.0.0.1:8080/node_modules/intern/
+
+![Brower Report](https://github.com/fabanc/intern4-exercises/blob/master/exercise-3/screenshots/chrome.PNG?raw=true)
