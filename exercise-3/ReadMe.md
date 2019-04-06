@@ -39,7 +39,7 @@ In order to load the AMD module, we need an AMD loader. Because or goal is to us
 
 HTTP Server is only required to be able to run the unit tests in a browser.
 
-To be able to load the Esri JavaScript API, I need to have a reference to dojo 2: `npm install @dojo/loader`
+To be able to load test suite as an AMD module in a browser, I need to have a reference to dojo 2: `npm install @dojo/loader`
 
 # Running the test suite in command line
 
