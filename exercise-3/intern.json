@@ -1,0 +1,14 @@
+{
+  "loader": {
+    "script": "dojo2"
+  },
+  "suites": "dist/tests/all.js",
+  "environments": [
+    {
+      "browserName": "chrome",
+      "chromeOptions": {
+        "args": ["headless", "disable-gpu"]
+      }
+    }
+  ]
+}
