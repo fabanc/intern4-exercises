@@ -2,12 +2,24 @@
   "loader": {
     "script": "dojo2",
     "options": {
-      "locale": "en",
+      "map": {
+        "*": {
+          "moment/moment": "esri/plugins/moment"
+        }
+      },
       "packages": [
         { "name": "esri", "location": "https://js.arcgis.com/4.11/esri" },
         {
           "name": "dojo",
           "location": "https://js.arcgis.com/4.11/dojo"
+        },
+        {
+          "name": "dijit",
+          "location": "https://js.arcgis.com/4.11/dijit"
+        },
+        {
+          "name": "dojox",
+          "location": "https://js.arcgis.com/4.11/dojox"
         },
         {
           "name": "@dojo",
