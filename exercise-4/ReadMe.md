@@ -114,7 +114,7 @@ Use the command `npx intern`
 
 # Thanks
 
-On this section, I owe a big thanks to Rene Rubaclave from Esri Inc for his help in getting moment to load. His GitHub repo is full of valuable information if your using the Esri JavaScript API. Here are few gold mines from him:
+On this section, I owe a big thanks to Rene Rubalcava from Esri Inc for his help in getting moment to load. His GitHub repo is full of valuable information if your using the Esri JavaScript API. Here are few gold mines from him:
 
 - His blog: https://odoe.net. You will even find some information on the view model pattern there: https://odoe.net/blog/view-models-in-arcgis-js-api/
 - His github account. Especially this repository: https://github.com/odoe/arcgis-cli-app
