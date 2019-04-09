@@ -1,0 +1,1 @@
+{"version":3,"file":"standalone.js","sourceRoot":"","sources":["../../../src/tests/unit/standalone.ts"],"names":[],"mappings":"AAAM,IAAA,+BAA4C,EAA1C,gBAAK,EAAE,cAAmC,CAAC;AAC3C,IAAA,wCAAM,CAA8B;AAE5C,KAAK,CAAC,iBAAiB,EAAE;IACvB,IAAI,CAAC,2DAA2D,EAAE;QAChE,MAAM,CAAC,KAAK,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC;IACrB,CAAC,CAAC,CAAC;AACL,CAAC,CAAC,CAAC"}

@@ -1,0 +1,62 @@
+{
+  "loader": {
+    "script": "dojo2",
+    "options": {
+      "locale": "en",
+      "packages": [
+        { "name": "esri", "location": "https://js.arcgis.com/4.11/esri" },
+        {
+          "name": "dojo",
+          "location": "https://js.arcgis.com/4.11/dojo"
+        },
+        {
+          "name": "@dojo",
+          "location": "https://js.arcgis.com/4.11/@dojo"
+        },
+        {
+          "name": "moment",
+          "location": "https://js.arcgis.com/4.11/moment"
+        },
+        {
+          "name": "cldrjs",
+          "location": "https://js.arcgis.com/4.11/cldrjs",
+          "main": "dist/cldr"
+        },
+        {
+          "name": "globalize",
+          "location": "https://js.arcgis.com/4.11/globalize",
+          "main": "dist/globalize"
+        },
+        {
+          "name": "maquette",
+          "location": "https://js.arcgis.com/4.11/maquette",
+          "main": "dist/maquette.umd"
+        },
+        {
+          "name": "maquette-css-transitions",
+          "location": "https://js.arcgis.com/4.11/maquette-css-transitions",
+          "main": "dist/maquette-css-transitions.umd"
+        },
+        {
+          "name": "maquette-jsx",
+          "location": "https://js.arcgis.com/4.11/maquette-jsx",
+          "main": "dist/maquette-jsx.umd"
+        },
+        {
+          "name": "tslib",
+          "location": "https://js.arcgis.com/4.11/tslib",
+          "main": "tslib"
+        }
+      ]
+    }
+  },
+  "suites": "dist/tests/all.js",
+  "environments": [
+    {
+      "browserName": "chrome",
+      "chromeOptions": {
+        "args": ["headless", "disable-gpu"]
+      }
+    }
+  ]
+}

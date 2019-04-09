@@ -1,0 +1,1 @@
+{"version":3,"file":"LayersCountViewModel.js","sourceRoot":"","sources":["../../../src/lib/LayersCount/LayersCountViewModel.ts"],"names":[],"mappings":";;IAYA;QAAoC,iDAAkB;QAAtD;;QAOA,CAAC;QAHC,wCAAQ,GAAR;YACE,OAAO,IAAI,CAAC,IAAI,CAAC,aAAa,CAAC,MAAM,CAAC;QACxC,CAAC;QAJD;YADC,qBAAQ,EAAE;2DACU;QAKvB,4BAAC;KAAA,AAPD,CAAoC,qBAAQ,CAAC,QAAQ,CAAC,GAOrD;IACD,OAAS,qBAAqB,CAAC"}
