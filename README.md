@@ -1,11 +1,11 @@
 # Description
 
-This repository contains a serie of exercises to be used in a tutorial to get people started with unit testing using intern 4 and Esri JavaScript API 4. The serie of excercises introduces you to the core concepts of Intern 4 and then walk you to the point where you can use it with Esri JavaScript 4.x API.
+This repository contains a serie of exercises to be used in a tutorial to get people started with unit testing using intern 4 and Esri JavaScript API 4. The serie of exercises introduces you to the core concepts of Intern 4 and then walk you to the point where you can use it with Esri JavaScript 4.x API.
 
-- excercise 1: shows you how to create a basic unit test using intern, and run it from the command line, or in a browser.
-- excercise 2: shows how to run multiple unit tests.
-- excercise 3: shows how to use the dojo2 loader with intern. This loader will be required to work with Esri JavaScript 4.x API.
-- excercise 4: shows how to use Intern to test your custom widget code when developing with Esri JavaScript 4.x API.
+- exercise 1: shows you how to create a basic unit test using intern, and run it from the command line, or in a browser.
+- exercise 2: shows how to run multiple unit tests.
+- exercise 3: shows how to use the dojo2 loader with intern. This loader will be required to work with Esri JavaScript 4.x API.
+- exercise 4: shows how to use Intern to test your custom widget code when developing with Esri JavaScript 4.x API.
 
 # Resources
 
