@@ -12,11 +12,11 @@ This repository contains a serie of exercises to be used in a tutorial to get pe
 I have been doing that while learning how to use intern as well, so here are the list of resources that helped me to get started the most. The first set of resources are from Rene Rubalcava, from Esri Inc.
 
 - His blog: https://odoe.net.
-- His github account. Especially this repository: https://github.com/odoe/arcgis-cli-app
+- His GitHub account. Especially this repository: https://github.com/odoe/arcgis-cli-app
 
 The second one is the documentation from the intern 4 developement team.
 
 - Intern 4 tutorial: https://github.com/theintern/intern-tutorial
 - Intern 4 documentation: https://theintern.io/docs.html#Intern/4/docs/README.md
 
-Finally, if you have a PluralSight subscription, I highly encouge you to take the class `Intern 4: Getting Started` at https://app.pluralsight.com/library/courses/intern-4-getting-started/table-of-contents
+Finally, if you have a PluralSight subscription, I highly encourage you to take the class `Intern 4: Getting Started` at https://app.pluralsight.com/library/courses/intern-4-getting-started/table-of-contents
