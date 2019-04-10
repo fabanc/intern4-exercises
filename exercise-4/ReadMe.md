@@ -2,6 +2,12 @@
 
 This is a demonstration on how to set-up TypeScript and Intern to run multiple unit test suite, within a browser or a the command line. In addition the the previous exercise, we are now calling our unit test on a module that leverages the Esri JavaScript 4.x API.
 
+## Setup
+
+Open the command line in the current directory, and type the following command: `npm install`.
+
+The code will be fetching the dojo and the arcgis API from online. Check the file `intern.json` for more information.
+
 # Learning points
 
 ## Make intern configuration file points to the packages used by dojo2 and the Esri API.

@@ -7,6 +7,8 @@ This repository contains a serie of exercises to be used in a tutorial to get pe
 - exercise 3: shows how to use the dojo2 loader with intern. This loader will be required to work with Esri JavaScript 4.x API.
 - exercise 4: shows how to use Intern to test your custom widget code when developing with Esri JavaScript 4.x API.
 
+Each exercise is built as an independant node package. After downloading the code from GitHub, you will need to install the dependencies for each exercise by typing in the console: `npm install`.
+
 # Resources
 
 I have been doing that while learning how to use intern as well, so here are the list of resources that helped me to get started the most. The first set of resources are from Rene Rubalcava, from Esri Inc.

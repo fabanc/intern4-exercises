@@ -6,6 +6,14 @@ The environement is setup to be using chrome as a default browser. Only one test
 
 # Set-up
 
+## Install
+
+Open the command line in the current directory, and type the following command: `npm install`.
+
+## Dependencies
+
+Those dependencies will be installed when running the command `npm install`.
+
 - TypeScript: I did a local installation: `npm install --save-dev typescript`
 - Intern: `npm install intern`
 - HTTP Server `npm install --save-dev http-server`
