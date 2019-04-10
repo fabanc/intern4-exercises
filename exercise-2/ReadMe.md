@@ -11,7 +11,7 @@ The browser should display the following.
 
 # Limitations
 
-What if there are more than one unit test to run in the browser. Since you can't use glob, and you have to path the location to a file, how do you do that? This will be the next excercise.
+What if there are more than one unit test to run in the browser. Since you can't use glob, and you have to path the location to a file, how do you do that? This will be the next exercise.
 
 # Set-up
 
