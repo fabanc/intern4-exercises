@@ -35,9 +35,9 @@ Intern has a way for you to run your unit test in a browser. That requires an st
 - Start the local http-server by running: `npm run start`
 - Go to: http://127.0.0.1:8080/node_modules/intern/
 
-However you will see that the page displays nothing. If you open the debugger in Chrome Developer Tools, you will even see an error message `Error: The server does not support suite glob resolution`. This is because debugging in Chrome does not expression for the location of the unit test. Instead you need a path to an existing file.
+However you will see that the page displays nothing. If you open the debugger in Chrome Developer Tools, you will even see an error message `Error: The server does not support suite glob resolution`. This is because debugging in Chrome does not support glob expression to describe the location of the unit test. Instead you need a path to an existing file.
 
-In other word, this is because our configuration file use a glob expression in the configuration file.
+In other words, this error happens because our configuration file uses a glob expression in the configuration file.
 
 ```json
 {
