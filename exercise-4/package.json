@@ -17,6 +17,6 @@
   "dependencies": {
     "@dojo/loader": "^2.0.0",
     "@types/arcgis-js-api": "^4.11.0",
-    "intern": "^4.4.3"
+    "intern": "^4.10.1"
   }
 }
